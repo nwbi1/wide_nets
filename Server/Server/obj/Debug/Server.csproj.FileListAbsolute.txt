@@ -1,0 +1,7 @@
+A:\nets\lab1\Server\Server\bin\Debug\Server.exe.config
+A:\nets\lab1\Server\Server\bin\Debug\Server.exe
+A:\nets\lab1\Server\Server\bin\Debug\Server.pdb
+A:\nets\lab1\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+A:\nets\lab1\Server\Server\obj\Debug\Server.exe
+A:\nets\lab1\Server\Server\obj\Debug\Server.pdb
+A:\nets\lab1\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
